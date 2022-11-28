@@ -247,7 +247,7 @@ $CS_ID=(ID from create)
     ```
 ## Use Boundary to connect to the Northwind demo database
 
-1. Analyst target
+1. Analyst target (Notice you are not asked for credentials)
 
     ```shell
     boundary connect postgres -target-id ttcp_(10 digit string) -dbname northwind
