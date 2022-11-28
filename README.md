@@ -8,13 +8,13 @@ In this example, a demo postgres database target is deployed. A dev Vault server
 
 ## Prerequisites:
 
-Docker or Docker Desktop - Installed
-PostgreSQL 11 Tools - Installed
-PostgreSQL 11 Tools - Added to system PATH
-Download the latest Windows_amd64 release of Vault: (https://releases.hashicorp.com/vault/) and extract.
-Vault - Added to system PATH
-Download the latest Windows_amd64 release of Boundary: (https://releases.hashicorp.com/boundary/) and extract.
-Boundary - Added to system PATH
+* Docker or Docker Desktop - Installed
+* PostgreSQL 11 Tools - Installed
+* PostgreSQL 11 Tools - Added to system PATH
+* Download the latest Windows_amd64 release of Vault: (https://releases.hashicorp.com/vault/) and extract.
+* Vault - Added to system PATH
+* Download the latest Windows_amd64 release of Boundary: (https://releases.hashicorp.com/boundary/) and extract.
+* Boundary - Added to system PATH
 
 
 1. Setup PostgreSQL Northwind demo database
